@@ -1,52 +1,69 @@
-# UFO Group Meeting Agenda – 11/16/2025 
+UFO Meeting Agenda – November 23rd 
 
-# Next Steps from Proposal 
+Project Status Updates 
 
-## Population Normalization - Carly 
+Project Preliminary Report due Dec 1, 2025. 
 
-Collect U.S. Census population by year or decade 
+Carly is behind due to work acquisition and long hours last week, but has time this week to complete her portion by Thursday or Friday. 
 
-Join to UFO data using state (or county if available) 
+Plan to incorporate population analysis using census.gov data for deeper correlations. 
 
-Produce normalized metrics like: 
+ 
 
-sightings per capita 
+Technical/Data Updates 
 
-sightings per 100k people 
+Carly and Isabella discussed tech/data side: NTIA Internet Use / Broadband Adoption Data (1998–present, “Digital Nation Data Explorer”). 
 
-Identify outlier states/regions 
+Discuss any remaining technical/data work. 
 
-## Dataset: 
-U.S. Census population by state (1900–2020) 
-Easily downloadable from census.gov (“Intercensal Estimates” or “State Population Totals”). 
+ 
 
-## Suggested dataset: 
-NTIA Internet Use / Broadband Adoption Data (1998–present) 
-(“Digital Nation Data Explorer” → downloadable CSVs) 
-This provides: 
+Action Items & Deadlines 
 
-% of households with internet 
+Preliminary Report: Dec 1, 11:59 PM. 
 
-Device ownership 
+Project Report Feedback: Dec 2 – review another group’s report. 
 
-Things to look for:
+Project Code and Data (.ipynb + data files): Dec 7. 
 
-Broadband availability to match our proposal’s emphasis on communication technology adoption. 
+Includes data cleansing, aggregation, summarization, visualization, modeling (if applicable). 
 
-Internet access over time 
+ 
 
-Home computer adoption 
+Final Project Report (PDF/Word): Dec 7. 
 
-# By Next meeting: 
+Include title, abstract, table of contents, methodology, visualizations, discussion, and implications. 
 
-Carly: Population analyzation, charts, build the kaggle notebook 
+ 
 
-Isabella: Tech adoption correlations and charts 
+Presentation Slides: Dec 7 (15-minute team presentation; last 3 min for Q&A). 
+ 
 
-Ben: Check our work. 
+	Carly will have time to build this out if no one else does. 
 
-# Next Meeting Date: 
+ 
 
-Can we meet Saturday afternoon or Sunday Morning?  
+Kaggle Notebook: Dec 7.   
 
-Once we decide, I will schedule our next meeting. 
+Introduction, data description, EDA (multivariate charts), modeling (if included). 
+ 
+
+Should we wait to add everything at the end, or should we add our project proposal too? 
+
+ 
+
+Planning & Next Steps 
+
+Next meeting: November 30th 2025 –  
+
+Ben to be submitter for all action items? 
+
+ 
+
+Open Discussion / Questions 
+
+Which tasks still need attention, and does anyone need support to meet deadlines? 
+
+Carly will be traveling for work; final presentation (Dec 9). 
+
+Happy Thanksgiving!
