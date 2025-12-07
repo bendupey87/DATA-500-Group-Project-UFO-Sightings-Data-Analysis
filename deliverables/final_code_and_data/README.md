@@ -1,5 +1,7 @@
 # DATA 501 Final Project - UFO Sightings Analysis
 
+(This README was created with the assistance of Ai.)
+
 ## Project Overview
 This project analyzes UFO sighting data from 1995-2014 to answer three key research questions about temporal patterns, internet reporting effects, and population density correlations.
 
